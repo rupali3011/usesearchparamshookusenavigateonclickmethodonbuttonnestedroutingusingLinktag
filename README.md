@@ -1,0 +1,2 @@
+# usesearchparamshookusenavigateonclickmethodonbuttonnestedroutingusingLinktag
+Created with CodeSandbox
